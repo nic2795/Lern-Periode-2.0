@@ -19,3 +19,9 @@ Ich möchte weiterhin in C# eintauchen und ausserdem möchte ich auch noch in ht
 - [ ] Vokabeltrainer weiter Programmieren
 - [ ] Guten Plan für das nächste Mal
 
+## Leit-Satz
+Ich habe heute sehr pordukitv gearbeitet, ich habe zuerst drei Auftäge in Moodle zum Modul 431 bearbeiten und fertig gestellen können. Danach habe ich noch zwei Stunden an meinem Vokabeltrainer gearbeiten und bin dort auch gut voran gekommen. Ich denke ich kann den Vokabeltrainer das nächste Mal fertig stellen. (49 Wörter)
+
+## Lernpaket 31.10.23
+- [ ] Vokabeltrainer fertigstellen
+- [ ] 
