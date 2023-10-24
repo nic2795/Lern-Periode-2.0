@@ -24,4 +24,6 @@ Ich habe heute sehr pordukitv gearbeitet, ich habe zuerst drei Auftäge in Moodl
 
 ## Lernpaket 31.10.23
 - [ ] Vokabeltrainer fertigstellen
-- [ ] 
+- [ ] Code auf Github hochladen
+- [ ] Flappy Bird programmieren
+
