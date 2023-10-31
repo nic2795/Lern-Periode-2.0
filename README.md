@@ -27,3 +27,11 @@ Ich habe heute sehr pordukitv gearbeitet, ich habe zuerst drei Auftäge in Moodl
 - [ ] Code auf Github hochladen
 - [ ] Flappy Bird programmieren
 
+## Leit-Satz 31.10.23
+Ich habe heute meinen Vokabeltrainer fertig programmiert, leider konnte ich den Code noch nicht auf Github hochladen, da ich probleme mit der Verbindung von Visual Studio zu Github hatte. Ich werde dieses Problem jedoch noch vor dem nächsten Mal lösen und mein Code wird auf Github sein. Leider habe ich auch noch nicht mit Dem Flappy Bird spiel begonnen, da es doch noch etwas länger gedauert hat als gedacht. (69 Wörter)
+
+## Lernpaket 07.11.23
+- [ ] Genaue Planung für den Tag
+- [ ] Flappy Bird beginnen
+- [ ] Flappy Bird Code hochladen
+- [ ] Gute Planung für das nächste Mal 
