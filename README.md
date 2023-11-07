@@ -33,4 +33,13 @@ Ich habe heute meinen Vokabeltrainer fertig programmiert, leider konnte ich den 
 ## Lernpaket 07.11.23
 - [ ] Flappy Bird beginnen
 - [ ] Flappy Bird Code hochladen
-- [ ] Gute Planung für das nächste Mal 
+- [ ] Gute Planung für das nächste Mal
+
+## Leit-Satz 07.11.23
+Ich habe heute nochmals an meinem Vokabeltrainer gearbeitet und es sind nochmals einige unklare Codezeilen aufgekommen, was dann zu Fehlern geführt hat. Demnach bin ich nicht fertig geworden und werde das nächste Mal nochmals daran arbeiten. Denn Code des Vokabeltrainers werde ich heute, nachdem ich noch etwas korrigiert habe auf Github hochladen. (52 Wörter)
+
+## Lernpacket 14.11.23
+- [ ] Vokabeltrainer Code verstehen
+- [ ] Vokabeltrainer ergänzen und verstehen
+- [ ] Code auf Github hochladen
+- [ ] NICHT SO FEST AN DAS TUTORIAL HALTEN. SELBER ÜBERLEGEN UND ERGÄNZEN!!
