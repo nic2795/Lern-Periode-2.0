@@ -50,4 +50,13 @@ Ich habe mich zu Hause nochmals stark mit dem Vokabeltrainer befasst und habe so
 ## Lernpaket 21.11.23
 - [ ] Flappy Bird programmieren
 - [ ] Code auf Github hochladen
-- [ ] Projekt bei Frau Rieder 
+- [ ] Projekt bei Frau Rieder
+
+## Leit-Satz 21.11.23
+Ich habe sehr produktiv gearbeitet, sowohl an meinem Flappy Bird, wie auch an dem Programmierprojekt. Ich habe aber nicht alles am Stück gemacht was mir sehr hilft, da ich nach einer Zeit einfach keine Lust mehr hab. Mit dem Flappy Bird habe ich Montag morgens angefangen und habe am Montag nach der Schule nochmals etwas daran gemacht und den Code auf Github hochgeladen. (63 Wörter)
+Ich finde dieses selbständig zu Hause arbeiten sehr gut, da mann sich alles selber einteilen kann und nicht andauernd in irgendwelche Meetings muss.
+
+## Lernpaket 28.11.23
+- [ ] Flappy Bird
+- [ ] Code auf Github
+- [ ] Projekt bei Frau Rieder
