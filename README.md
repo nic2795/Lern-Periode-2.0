@@ -62,10 +62,19 @@ Ich finde dieses selbständig zu Hause arbeiten sehr gut, da mann sich alles sel
 - [ ] Projekt bei Frau Rieder
 
 ## Leit-Satz 28.11.23
-Ich habe heute wieder sehr produktiv von zu Hause gearbeitet, ich habe weiter an meinem Flappy Bird gearbeitet. An dem Projekt von Frau Rieder habe ich heute nicht gearbeitet, da unsere Gruppe schon so gut wie feqrtig ist. 
+Ich habe heute wieder sehr produktiv von zu Hause gearbeitet, ich habe weiter an meinem Flappy Bird gearbeitet. An dem Projekt von Frau Rieder habe ich heute nicht gearbeitet, da unsere Gruppe schon so gut wie fertig ist. 
 Leider funktioniert das Flappy Bird noch nicht, da ich einen fehler gemacht habe, aber man kann schon das Startbild sehen, wenn man das Spiel startet. (63 Wörter)
 
 ## Lernpaket 05.12.23
 - [ ] Flappy Bird fertig
 - [ ] Code auf Github
 - [ ] Webseite erstellen
+
+## Leitsatz 05.12.23
+Ich habe heute produktiv weiter an meinem Flappy Bird gearbeitet. Leider konnte ich es nicht fertigstelle, da es einige fehler gab und ich eine ganze Zeit gebraucht habe um diese zu lösen. 
+Denn Code werde ich heute noch auf Github hochladen. (41 Wörter)
+
+## Lernpaket 12.12.23
+- [ ] Flappy Bird fertig
+- [ ] Code auf Github
+- [ ] Webseite erstellen mit JavaScript
