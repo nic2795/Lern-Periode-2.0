@@ -78,3 +78,11 @@ Denn Code werde ich heute noch auf Github hochladen. (41 Wörter)
 - [ ] Flappy Bird fertig
 - [ ] Code auf Github
 - [ ] Webseite erstellen mit JavaScript
+
+## Lernsatz 12.12.23
+Heute habe ich nicht so viel gemacht, da ich schon am Wochenende mein Flappy-Bird fertiggestellt habe und den Code auf Github hochgeladen habe. Dennoch habe ich produktiv gearbeitet und angefangen eine Webseite zu erstellen, ich muss mir nur noch überlegen, was auf der Webseite zusehen sein soll. Ich habe mir überlegt eventuell einen kleinen Webshop aufzumachen. Natürlich einer der nicht öffnetlich ist und man nicht wirklich bestellen kann, weil ich nicht wüsste was ich verkaufen soll. Trotzdem denke ich wäre dies eine coole Idee. (84 Wörter)
+
+## Lernpaket 19.12.23
+- [ ] Webseite weiter
+- [ ] Code auf Github
+- [ ] Webseite evtl. sichtbar für alle
