@@ -77,7 +77,7 @@ Denn Code werde ich heute noch auf Github hochladen. (41 Wörter)
 ## Lernpaket 12.12.23
 - [ ] Flappy Bird fertig
 - [ ] Code auf Github
-- [ ] Webseite erstellen mit JavaScript
+- [ ] Webseite erstellen mit html
 
 ## Lernsatz 12.12.23
 Heute habe ich nicht so viel gemacht, da ich schon am Wochenende mein Flappy-Bird fertiggestellt habe und den Code auf Github hochgeladen habe. Dennoch habe ich produktiv gearbeitet und angefangen eine Webseite zu erstellen, ich muss mir nur noch überlegen, was auf der Webseite zusehen sein soll. Ich habe mir überlegt eventuell einen kleinen Webshop aufzumachen. Natürlich einer der nicht öffnetlich ist und man nicht wirklich bestellen kann, weil ich nicht wüsste was ich verkaufen soll. Trotzdem denke ich wäre dies eine coole Idee. (84 Wörter)
@@ -86,3 +86,13 @@ Heute habe ich nicht so viel gemacht, da ich schon am Wochenende mein Flappy-Bir
 - [ ] Webseite weiter
 - [ ] Code auf Github
 - [ ] Webseite evtl. sichtbar für alle
+
+## Leitsatz 19.12.23
+Ich habe an der Webseit gearbeitet. Ich denke ich war sehr produktiv, ich glaube es liegt daran, dass ich von zu Hause arbeiten kann und fasst eine Stunde länger schlafen kann. Den Code habe ich noch nicht auf Github hochgeladen, aber ich werde es heute noch machen. (47 Wörter)
+
+## Gesammte Zusammenfassung
+"Ich möchte weiterhin in C# eintauchen und ausserdem möchte ich auch noch in html einsteigen. Evt. mit C# und html eine Webseite erstellen." Dies ist mein Leitsatz, was ich in dieser Lernperiode lernen will. 
+Ich denke dies konnte ich erreichen, durch die Projekte die ich in der Zeit gemacht habe. Als erstes in dieser Lernperiode, habe ich mit dem Vokabeltrainer in Windows-Forms gearbeitet, was ich nicht ganz so toll gefunden habe.
+Da ich das Designen mit Windows-Forms nicht so gut fand, habe ich danach ein Projekt mit WPF gearbeitet, was ich um einiges einfacher und übersichtlicher fand. Nach diesen zwei Projekten, wollte ich etwas schwieriges und habe angefangen eine Webseite mit html und C# zu erstellen. 
+Am besten konnte ich immer arbeiten, wenn ich zu Hause war. Ich denke es liegt daran dass ich eine Stunde mehr Schlaf habe und nicht noch zuerst raus in die Kälte muss. Ausserdem kann ich auch besser und produktiver arbeiten, wenn ich Musik höre. 
+(160 Wörter)
